@@ -21,7 +21,7 @@ attr_accessor :id, :name, :type, :db
     #binding.pry
   end
 
-  def alter_hp
+  def alter_hp(hp, db)
 
   end
 
